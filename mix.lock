@@ -11,7 +11,7 @@
   "httpoison": {:hex, :httpoison, "0.7.1"},
   "httpotion": {:hex, :httpotion, "0.2.4"},
   "idna": {:hex, :idna, "1.0.2"},
-  "inch_ex": {:hex, :inch_ex, "0.4.0"},
+  "inch_ex": {:hex, :inch_ex, "0.5.1"},
   "jsex": {:hex, :jsex, "2.0.0"},
   "json": {:git, "git://github.com/cblage/elixir-json.git", "725ea02b992aba35c18d0e9c7c3da54689670baf", []},
   "jsx": {:hex, :jsx, "2.6.2"},
@@ -19,7 +19,7 @@
   "mimerl": {:hex, :mimerl, "1.0.2"},
   "mock": {:git, "https://github.com/parroty/mock.git", "33d095a9b028f9f97f6d506ae6b2feb34630fdc5", [branch: "fix"]},
   "oauth": {:git, "https://github.com/tim/erlang-oauth.git", "cd31addc828179983564fd57738f1680a4a4d1ff", []},
-  "poison": {:hex, :poison, "1.5.0"},
+  "poison": {:hex, :poison, "2.1.0"},
   "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.5"},
   "timex": {:hex, :timex, "1.0.0"},
   "tzdata": {:hex, :tzdata, "0.5.6"}}
